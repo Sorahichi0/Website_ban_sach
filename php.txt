@@ -1,0 +1,3 @@
+bật xamp
+có tài khoản và tạo trang trên ngrok
+cài ngrok và nhập mã vào cmd 
